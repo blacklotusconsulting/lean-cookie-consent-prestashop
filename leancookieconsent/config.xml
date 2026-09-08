@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+  <name>leancookieconsent</name>
+  <displayName><![CDATA[Lean Cookie Consent]]></displayName>
+  <version><![CDATA[0.1.0]]></version>
+  <description><![CDATA[Load Lean Cookie Consent on PrestaShop storefronts from a public Site Key.]]></description>
+  <author><![CDATA[Black Lotus Consulting Srl]]></author>
+  <tab><![CDATA[front_office_features]]></tab>
+  <confirmUninstall><![CDATA[Are you sure you want to uninstall Lean Cookie Consent?]]></confirmUninstall>
+</module>
+
